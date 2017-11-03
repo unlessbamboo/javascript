@@ -1,3 +1,6 @@
+// import _ from 'lodash';
+// var _ = require('lodash');
+
 // 当一个实例创建(new Vue)时, 向Vue响应系统加入data对象中所有属性,
 //     一旦属性发生变化, 视图立刻响应
 var app = new Vue({
